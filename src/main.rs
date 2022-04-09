@@ -22,6 +22,6 @@ fn main() {
 
 
     let mut world = GenomeList::new(1000, 10, 0.0, 10.0, &functions);
-    GenomeList::ga_loop(&mut world, 200, 11, 0.05, 0.0, 10.0);
+    GenomeList::ga_loop(&mut world, 200, 1, 0.05, 0.0, 10.0);
 
 }
