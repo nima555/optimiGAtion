@@ -57,7 +57,7 @@ fn main() {
 }
 ```
 
-### GenomeList::new()
+### GenomeList::new(usize, usize, f32, f32, &Vec< fn(&Vec) -> f32 >)
 
   these are arguments of this function.
 
@@ -67,7 +67,7 @@ fn main() {
 4. Max of values.
 5. Closure list of evaluation function.
 
-### GenomeList::ga_loop()
+### GenomeList::ga_loop(& mut Self, usize, i8, f32, f32, f32)
 
   these are arguments of this function.
 
