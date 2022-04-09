@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This is Rust tools for evolutionary computation, participate GA. The tools focuses high level of versatility, so we can optimaze so much types of mutivariable problem via this.
+This is Rust tools for evolutionary computation, especialy GA. The tools focuses high level of versatility, so we can optimaze so much types of mutivariable problem via this.
 
 ## What is GA?
 
