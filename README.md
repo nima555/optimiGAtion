@@ -28,9 +28,9 @@ Then, main.rs should be like this.
 
 ```main.rs
 extern crate gene;
-use gene::GenomeList;
-use crate::gene::ga_algorithm::Generation;
-use crate::gene::ga_algorithm::System;
+use optimigation::GenomeList;
+use crate::optimigation::ga_algorithm::Generation;
+use crate::optimigation::ga_algorithm::System;
 
 
 fn sum(genome: &Vec<f32>) -> f32{
