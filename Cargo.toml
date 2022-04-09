@@ -2,7 +2,7 @@
 name = "optimigation"
 version = "0.1.0"
 edition = "2021"
-authors = ["Nima Hirota"]
+authors = ["Nima Hirota <p.t.c.i.27315@gmail.com>"]
 
 description = "This is Rust tools for evolutionary computation, participate GA."
 
