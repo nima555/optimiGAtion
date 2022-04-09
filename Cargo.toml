@@ -9,7 +9,7 @@ description = "This is Rust tools for evolutionary computation, participate GA."
 repository = "https://github.com/nima555/optimiGAtion"
 readme = "README.md"
 
-keywords = ["GA","evolutionary computation","Genetic algorithm","optimization"]
+keywords = ["GA","evolutionary_computation","Genetic_algorithm","optimization"]
 categories = ["science"]
 license = "MIT"
 
