@@ -21,7 +21,7 @@ If you want to use this tools, you should add optimiGAtion to dependencies in ca
 
 ```Cargo.toml
 [dependencies]
-optimiGAtion = "0.1.0"
+optimigation = "0.1.0"
 ```
 
 Then, main.rs should be like this.
